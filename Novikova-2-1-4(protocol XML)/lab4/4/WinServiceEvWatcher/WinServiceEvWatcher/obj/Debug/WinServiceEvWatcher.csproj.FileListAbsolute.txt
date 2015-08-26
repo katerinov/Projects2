@@ -1,0 +1,9 @@
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\bin\Debug\WinServiceEvWatcher.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\bin\Debug\WinServiceEvWatcher.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\bin\Debug\WinServiceEvWatcher.pdb
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\obj\Debug\WinServiceEvWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\obj\Debug\WinServiceEvWatcher.ProjectInstaller.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\obj\Debug\WinServiceEvWatcher.EvWatcher.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\obj\Debug\WinServiceEvWatcher.csproj.GenerateResource.Cache
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\obj\Debug\WinServiceEvWatcher.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\4\WinServiceEvWatcher\WinServiceEvWatcher\obj\Debug\WinServiceEvWatcher.pdb

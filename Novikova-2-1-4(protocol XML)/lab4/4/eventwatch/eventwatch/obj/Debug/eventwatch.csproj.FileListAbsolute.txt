@@ -1,0 +1,9 @@
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.pdb
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\obj\Debug\eventwatch.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\obj\Debug\eventwatch.ProjectInstaller.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\obj\Debug\eventwatch.evwatch.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\obj\Debug\eventwatch.csproj.GenerateResource.Cache
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\obj\Debug\eventwatch.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\obj\Debug\eventwatch.pdb

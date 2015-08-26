@@ -1,0 +1,4 @@
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_2\Library_2\bin\Debug\Library_2.dll
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_2\Library_2\bin\Debug\Library_2.pdb
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_2\Library_2\obj\Debug\Library_2.dll
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_2\Library_2\obj\Debug\Library_2.pdb

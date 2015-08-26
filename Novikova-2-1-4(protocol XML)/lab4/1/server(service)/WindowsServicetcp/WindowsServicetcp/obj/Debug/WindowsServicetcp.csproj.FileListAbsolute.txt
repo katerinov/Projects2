@@ -1,0 +1,8 @@
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.pdb
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\obj\Debug\WindowsServicetcp.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\obj\Debug\WindowsServicetcp.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\obj\Debug\WindowsServicetcp.pdb
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\obj\Debug\WindowsServicetcp.ProjectInstaller.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\obj\Debug\WindowsServicetcp.csproj.GenerateResource.Cache

@@ -1,0 +1,85 @@
+﻿Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Uninstalling assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.

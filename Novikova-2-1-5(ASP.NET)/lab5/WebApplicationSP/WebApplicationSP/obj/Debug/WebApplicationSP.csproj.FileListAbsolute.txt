@@ -1,0 +1,5 @@
+C:\Users\Kato\Desktop\sys_prog\lab5\WebApplicationSP\WebApplicationSP\bin\WebApplicationSP.dll
+C:\Users\Kato\Desktop\sys_prog\lab5\WebApplicationSP\WebApplicationSP\bin\WebApplicationSP.pdb
+C:\Users\Kato\Desktop\sys_prog\lab5\WebApplicationSP\WebApplicationSP\obj\Debug\WebApplicationSP.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab5\WebApplicationSP\WebApplicationSP\obj\Debug\WebApplicationSP.dll
+C:\Users\Kato\Desktop\sys_prog\lab5\WebApplicationSP\WebApplicationSP\obj\Debug\WebApplicationSP.pdb

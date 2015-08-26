@@ -1,0 +1,22 @@
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\Kato\Desktop\sys_prog\lab2\lab2\lab2\bin\Debug\MySql.Data.dll
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\bin\Debug\MySql.Data.dll
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Kato\Desktop\sys_prog\lab2 MySQL\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache

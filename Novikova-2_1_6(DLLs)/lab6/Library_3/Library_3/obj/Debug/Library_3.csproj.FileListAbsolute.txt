@@ -1,0 +1,9 @@
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\bin\Debug\Library_3.dll
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\bin\Debug\Library_3.pdb
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\obj\Debug\Library_3.dll
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\obj\Debug\Library_3.pdb
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\bin\Debug\Library_1.dll
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\bin\Debug\Library_2.dll
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\bin\Debug\Library_1.pdb
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\bin\Debug\Library_2.pdb
+C:\Users\Kato\Desktop\sys_prog\lab6\Library_3\Library_3\obj\Debug\Library_3.csprojResolveAssemblyReference.cache

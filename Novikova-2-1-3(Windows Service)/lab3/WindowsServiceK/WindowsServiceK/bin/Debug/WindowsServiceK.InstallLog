@@ -1,0 +1,68 @@
+﻿Выполняется удаление сборки 'E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Выполняется удаление источника EventLog Service1.
+Предупреждение. Источник Service1 не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Service1 из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.InstallLog
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe

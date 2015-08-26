@@ -1,0 +1,6 @@
+C:\Users\Kato\Desktop\sys_prog\lab2\test\test\bin\Debug\test.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab2\test\test\bin\Debug\test.exe
+C:\Users\Kato\Desktop\sys_prog\lab2\test\test\bin\Debug\test.pdb
+C:\Users\Kato\Desktop\sys_prog\lab2\test\test\obj\Debug\test.exe
+C:\Users\Kato\Desktop\sys_prog\lab2\test\test\obj\Debug\test.pdb
+C:\Users\Kato\Desktop\sys_prog\lab2\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache

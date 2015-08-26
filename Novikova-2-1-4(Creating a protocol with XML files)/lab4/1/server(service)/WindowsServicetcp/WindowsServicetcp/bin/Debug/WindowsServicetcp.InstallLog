@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.InstallLog
+Installing service TCPServer_1...
+Service TCPServer_1 has been successfully installed.
+Creating EventLog source TCPServer_1 in log Application...
+Committing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\1\server(service)\WindowsServicetcp\WindowsServicetcp\bin\Debug\WindowsServicetcp.InstallLog

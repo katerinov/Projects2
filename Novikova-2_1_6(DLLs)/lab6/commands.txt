@@ -1,0 +1,256 @@
+apt-get update
+apt-get install debian-keyring debian-archive-keyring
+apt-get update
+apt-get install build-essential
+
+Cкомп≥лювати ≥ виконати програму hello.c:
+
+#include <stdio.h>
+int main()
+{
+printf("HELLO!\n");
+return 0;
+}
+
+за допомогою команд
+
+gcc Цc hello.c
+gcc Цstatic Цo EXE hello.o 
+./EXE
+
+
+
+¬икористовуючи приклади в файл≥ GCC-O-SO.txt (http:// ЕЕЕ.. /sysprog/ GCC-O-SO.txt), реал≥зувати функц≥њ F1 Е F4 у вигл€д≥ 4-x окремих C-файл≥в  (можна без використанн€ клас≥в ≥ насл≥дуванн€):
+
+F1.c	F2.c	F3.c	F4.c,
+
+створити чотири статичних арх≥ви:
+
+libf1.a	libf2.a	libf3.a	libf4.a,
+
+≥ за допомогою цих статичних арх≥в≥в скомп≥лювати ≥ виконати програму mail.c, €ка ≥нтерактивно або через командн≥ аргументи запитуЇ X,Y та виводить значенн€ F4(X,Y). ѕор≥вн€ти з результатами обчисленн€ на калькул€тор≥ на веб-програм≥ з пункт≥ 5.
+
+7. ѕовторити попередн≥й пункт, але при цьому реал≥зувати функц≥њ F1 Е F4 у вигл€д≥ 4-x не статичних арх≥в≥в, а 4-х динам≥чних б≥бл≥отек:
+
+libf1.so		libf2.so		libf3.so		libf4.so,
+
+(див. файл GCC-O-SO.txt (http:// ЕЕЕ.. /sysprog/ GCC-O-SO.txt)
+
+TWO static archives    libh_world.a        libg_world.a:
+-----------------------------------------------------------
+
+g_world.c
+====================
+#include <stdio.h>
+void g_world (void)
+{
+        printf ("Hi, World!\n");
+}
+
+
+
+g_world.h
+====================
+void g_world (void);
+
+
+
+
+
+h_world.c
+====================
+#include "g_world.h"
+void h_world (void)
+{
+        g_world();
+        g_world();
+        g_world();
+        g_world();
+        g_world();
+}
+
+
+h_world.h
+====================
+void h_world (void);
+
+
+
+
+main.c
+====================
+#include "h_world.h"
+#include "g_world.h"
+int main (void)
+{
+        h_world();
+        g_world();
+        return 0;
+}
+
+
+
+CONSOLE COMMAND:					RESULTS:
+=============================================================================
+gcc -c main.c						mail.o
+gcc -c h_world.c					h_world.o	
+gcc -c g_world.c					g_world.o
+ar cr libg_world.a g_world.o				libg_world.a
+ar cr libh_world.a h_world.o				libh_world.a
+gcc -static -o EXE main.o -L. -lg_world -lh_world	EXE
+
+
+
+
+
+
+
+
+
+ONE static archive libworld.a:
+-----------------------------------------------------------
+
+gcc -c main.c				mail.o
+gcc -c h_world.c			h_world.o	
+gcc -c g_world.c			g_world.o
+ar cr libworld.a h_world.o g_world.o	libworld.a
+gcc -o EXE main.o -L. -lworld		EXE
+
+
+
+
+C sources the same as above...
+
+
+
+
+
+
+
+
+ONE dynamic library  libworld.so:
+-----------------------------------------------------------
+
+gcc -c main.c				mail.o
+gcc -c -fPIC h_world.c			h_world.o	
+gcc -c -fPIC g_world.c			g_world.o	
+
+gcc -shared -o libworld.so h_world.o g_world.o
+					libworld.so
+
+gcc -o EXE main.o -L. -lworld -Wl,-rpath,.
+					EXE
+
+
+
+world.h
+==========================
+void h_world (void);
+void g_world (void);
+
+
+main.c
+==========================
+#include "world.h"
+int main (void)
+{
+        h_world();
+        g_world();
+        return 0;
+}
+
+
+h_world.c
+==========================
+#include <stdio.h>
+void h_world (void)
+{
+        printf ("Hello, World!\n");
+}
+
+
+g_world.c
+==========================
+#include <stdio.h>
+void g_world (void)
+{
+        printf ("Good Buy, World!\n");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TWO dynamic librarires  libh_world.so    libg_world.so  :
+-----------------------------------------------------------
+
+
+
+
+gcc -c main.c						main.o
+gcc -c -fPIC h_world.c					h_world.o
+gcc -c -fPIC g_world.c					g_world.o
+gcc -shared -o libg_world.so g_world.o			libg_world.so
+gcc -shared -o libh_world.so h_world.o -L. -lg_world	libh_world.so
+gcc -o EXE main.o -L. -lh_world -Wl,-rpath,.		EXE
+
+
+
+
+h_world.h
+==========================
+void h_world (void);
+
+
+g_world.h
+==========================
+void g_world (void);
+
+
+main.c
+==========================
+#include "h_world.h"
+int main (void)
+{
+        h_world();
+        return 0;
+}
+
+
+h_world.c
+==========================
+#include "g_world.h"
+void h_world (void)
+{
+        g_world();
+        g_world();
+}
+
+
+g_world.c
+==========================
+#include <stdio.h>
+void g_world (void)
+{
+        printf ("Hi, World!\n");
+}
+
+
+
+
+
+
+I?ia?aiie?iaaiea a Eeioen n ioey:
+------------------------------------
+
+http://www.opennet.ru/docs/RUS/zlp/

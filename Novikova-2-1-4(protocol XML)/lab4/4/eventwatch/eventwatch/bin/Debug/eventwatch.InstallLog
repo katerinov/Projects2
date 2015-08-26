@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.InstallLog
+Installing service eventwatch...
+Service eventwatch has been successfully installed.
+Creating EventLog source eventwatch in log Application...
+Committing assembly 'C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.exe
+   logfile = C:\Users\Kato\Desktop\sys_prog\lab4\4\eventwatch\eventwatch\bin\Debug\eventwatch.InstallLog

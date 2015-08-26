@@ -1,0 +1,9 @@
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\bin\Debug\WindowsFormsApplicationWMI3.exe.config
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\bin\Debug\WindowsFormsApplicationWMI3.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\bin\Debug\WindowsFormsApplicationWMI3.pdb
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\obj\Debug\WindowsFormsApplicationWMI3.csprojResolveAssemblyReference.cache
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\obj\Debug\WindowsFormsApplicationWMI3.Form1.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\obj\Debug\WindowsFormsApplicationWMI3.Properties.Resources.resources
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\obj\Debug\WindowsFormsApplicationWMI3.csproj.GenerateResource.Cache
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\obj\Debug\WindowsFormsApplicationWMI3.exe
+C:\Users\Kato\Desktop\sys_prog\lab4\3\WindowsFormsApplicationWMI3\WindowsFormsApplicationWMI3\obj\Debug\WindowsFormsApplicationWMI3.pdb
